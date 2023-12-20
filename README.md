@@ -1,3 +1,4 @@
-A freshman of Github
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=C-256&show_icons=true" />
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=C-256)](https://github.com/anuraghazra/github-readme-stats)
+A freshman at Github.
+An undergraduate majoring in SE.
