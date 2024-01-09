@@ -1,5 +1,13 @@
-* A freshman at Github.
-* An undergraduate majoring in SE.
+# Hey!
+
+## I am ...
+
+- A freshman at Github.
+- An undergraduate majoring in SE.
+- A typical INTP.
+- Very good at copy and paste.
+
+---
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=C-256&show_icons=true&count_private=true" />
