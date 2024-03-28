@@ -14,9 +14,8 @@
 
 ## I am learning ...
 
-- Frontend development and Vue.js
-- Python and Flask
-- Data structure and algorithms \(Persisting on LeetCode.\)
+- Software construction
+- Java programming
 
 ## *Hope that I can learn more in 2024*
 
