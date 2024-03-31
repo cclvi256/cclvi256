@@ -22,6 +22,6 @@
 ---
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=16xvi&show_icons=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=16xvi&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cclvi256&show_icons=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cclvi256&layout=compact" />
 </p>
