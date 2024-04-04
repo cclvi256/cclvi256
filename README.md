@@ -2,22 +2,29 @@
 
 ## I am ...
 
-- A freshman at Github.
-- An undergraduate majoring in SE.
-- A typical INTP.
+- A freshman at Github
+- An undergraduate majoring in SE at Harbin Institute of Technology
+- A typical INTP
 
-## I am good at ...
+## I'm good at ...
 
-- Copying and pasting.
-- Staying up late.
-- Sleeping 6 hours every day in average.
+- C# programming
+- Using Linux on desktops and servers
+- Using `git clone` command :P
 
-## I am learning ...
+## I'm learning ...
 
 - Software construction
 - Java programming
+- Web development
 
-## *Hope that I can learn more in 2024*
+## I'm planning to ...
+
+- Learn more, including but not limited to ...
+  - Advanced C# development
+  - Making packages for mainstream Linux distros
+  - Network programming, LaTeX, project deployment, etc.
+- Start an open source project with GitHub
 
 ---
 
