@@ -32,3 +32,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cclvi256&show_icons=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cclvi256&layout=compact" />
 </p>
+
+**I hereby declare that all open source code and materials developed or copyrighted by me are prohibited from use by persons or organizations governed by laws that require developers to be responsible for software security or illegal abuse.**
