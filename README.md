@@ -28,9 +28,29 @@
 
 ---
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cclvi256&show_icons=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cclvi256&layout=compact" />
+<p align="center">
+  <picture align="center" height="180em">
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=cclvi256&include_all_commits=true&count_private=true&theme=dark"
+      media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=cclvi256&include_all_commits=true&count_private=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=cclvi256&include_all_commits=true&count_private=true&theme=dark" />
+  </picture>
+  <picture align="center" height="180em">
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cclvi256&layout=compact&theme=dark"
+      media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cclvi256&layout=compact"
+      media="(prefers-color-scheme: light)"
+    />
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cclvi256&layout=compact&theme=dark" />
+  </picture>
 </p>
 
 **I hereby declare that all open source code and materials developed or copyrighted by me are prohibited from use by persons or organizations governed by laws that require developers to be responsible for software security or illegal abuse.**
