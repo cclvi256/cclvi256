@@ -53,4 +53,4 @@
   </picture>
 </p>
 
-**I hereby declare that all open source code and materials developed or copyrighted by me are prohibited from use by persons or organizations governed by laws that require developers to be responsible for software security or illegal abuse.**
+**I hereby declare that all software, open source code, and materials developed or copyrighted by me are prohibited from illegal use. Illegal use includes but is not limited to: copyright infringement, unauthorized distribution, use for criminal activities, and any other activities prohibited by local laws and regulations. Users are expected to comply with all applicable laws and regulations when using my software, open source code, and materials. Although as an open source software developer, I lack the means to track users' usage or terminate their usage rights, I strongly urge users to use the software legally, respect intellectual property rights, and abide by laws and regulations. Any misuse of my software, open source code, and materials will be condemned and may be subject to legal action.**
