@@ -10,31 +10,22 @@
 
 # Hi there 👋🏻
 
-## I am ...
-
-- A freshman at Github
-- An undergraduate majoring in SE at Harbin Institute of Technology
-- A typical INTP
-
-## I'm good at ...
-
-- C# programming
-- Using Linux on desktops and servers
-- Using `git clone` command :P
-
-## I'm learning ...
-
-- Software construction
-- Java programming
-- Web development
-
-## I'm planning to ...
-
-- Learn more, including but not limited to ...
-  - Advanced C# development
-  - Making packages for mainstream Linux distros
-  - Network programming, LaTeX, project deployment, etc.
-- Start an open source project with GitHub
+- I am ...
+  - An undergraduate majoring in SE at Harbin Institute of Technology
+  - A typical INTP
+- I'm good at ...
+  - Using Linux on desktops and servers
+  - Using `git clone` command :P
+- I’m currently learning ...
+  - Software construction
+  - Java programming
+  - Web development
+- I'm planning to Learn ...
+  - Functional programming, using Scala or F#
+  - Making packages of mainstream Linux distros, although for myself
+  - Network programming, Typst, project deployment, etc.
+- How to reach me ...
+  - Email: cristaux60.08@gmail.com
 
 ---
 
