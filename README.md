@@ -21,7 +21,7 @@
   - Java programming
   - Web development
 - I'm planning to Learn ...
-  - Functional programming, using Scala or F#
+  - Rust programming
   - Making packages of mainstream Linux distros, although for myself
   - Network programming, Typst, project deployment, etc.
 - How to reach me ...
