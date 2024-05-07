@@ -11,17 +11,16 @@
 # Hi there 👋🏻
 
 - I am ...
-  - An undergraduate majoring in SE at Harbin Institute of Technology
+  - An undergraduate majoring in SE @ Harbin Institute of Technology
   - A typical INTP
 - I'm good at ...
   - Using Linux on desktops and servers
   - Using `git clone` command :P
 - I’m currently learning ...
   - Software construction
-  - Java programming
-  - Web development
-- I'm planning to Learn ...
   - Rust programming
+  - Web development
+- I'm planning to learn ...
   - Making packages of mainstream Linux distros, although for myself
   - Network programming, Typst, project deployment, etc.
 - How to reach me ...
