@@ -11,20 +11,21 @@
 # Hi there 👋🏻
 
 - I am ...
-  - An undergraduate majoring in SE @ Harbin Institute of Technology
+  - An undergraduate majoring in SE at Harbin Institute of Technology
   - A typical INTP
 - I'm good at ...
   - Using Linux on desktops and servers
-  - Using `git clone` command :P
+  - Using `git clone` command (:P)
 - I’m currently learning ...
-  - Software construction
-  - Rust programming
-  - Web development
+  - CSAPP, OS, and Compilation Principles
+  - Web development with React and SpringBoot
 - I'm planning to learn ...
-  - Making packages of mainstream Linux distros, although for myself
-  - Network programming, Typst, project deployment, etc.
+  - More programming paradigms, such as FP, generic, and metaprogramming
+  - Network programming
+  - CI/CD in software development
 - How to reach me ...
   - Email: cristaux60.08@gmail.com
+  - Discord: cclvi256
 
 ---
 
