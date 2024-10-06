@@ -11,19 +11,24 @@
 # Hi there 👋🏻
 
 - I am ...
-  - An undergraduate majoring in SE at Harbin Institute of Technology
-  - A typical INTP
+  - an undergraduate majoring in SE at Harbin Institute of Technology
+  - a typical INTP with Schrödinger's concentration and efficiency
+- I'm currently preparing for ...
+  - an internship in this winter
+  - contributing to an open source project
 - I'm good at ...
-  - Using Linux on desktops and servers
-  - Using `git clone` command (:P)
+  - using Linux on desktops and servers
+  - using `git clone` command (:P)
+  - elementary web development with SpringBoot
 - I’m currently learning ...
-  - CSAPP, OS, and Compilation Principles
-  - Web development with React and SpringBoot
+  - computer networking, OS, and compilation principles
+  - C++ developing
 - I'm planning to learn ...
-  - More programming paradigms, such as FP, generic, and metaprogramming
-  - Network programming
+  - graphic developing with QT
+  - more programming paradigms, such as FP, generic, and metaprogramming
   - CI/CD in software development
-- How to reach me ...
+  - microservice and high-concurrency development with Golang
+- How to reach me: ...
   - Email: cristaux60.08@gmail.com
   - Discord: cclvi256
 
