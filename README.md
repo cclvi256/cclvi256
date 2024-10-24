@@ -29,7 +29,7 @@
   - CI/CD in software development
   - microservice and high-concurrency development with Golang
 - How to reach me: ...
-  - Email: cristaux60.08@gmail.com
+  - Email: i@cclvi.cc
   - Discord: cclvi256
 
 ---
